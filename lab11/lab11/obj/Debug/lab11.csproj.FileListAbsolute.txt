@@ -1,0 +1,6 @@
+C:\BioInf\lab11\lab11\bin\Debug\lab11.exe.config
+C:\BioInf\lab11\lab11\obj\Debug\lab11.csprojResolveAssemblyReference.cache
+C:\BioInf\lab11\lab11\bin\Debug\lab11.exe
+C:\BioInf\lab11\lab11\bin\Debug\lab11.pdb
+C:\BioInf\lab11\lab11\obj\Debug\lab11.exe
+C:\BioInf\lab11\lab11\obj\Debug\lab11.pdb

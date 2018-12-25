@@ -1,0 +1,18 @@
+﻿Build started 25.12.2018 21:04:40.
+     1>Project "C:\BioInf\lab9\lab9\lab9.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\bioinf\lab9\lab9\main.cpp(9): error C2552: 'aminoacids' : non-aggregates cannot be initialized with initializer list
+                 'std::vector<_Ty>' : Types with a base are not aggregate
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+     1>c:\bioinf\lab9\lab9\main.cpp(9): error C2078: too many initializers
+     1>c:\bioinf\lab9\lab9\main.cpp(9): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "C:\BioInf\lab9\lab9\lab9.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.52
